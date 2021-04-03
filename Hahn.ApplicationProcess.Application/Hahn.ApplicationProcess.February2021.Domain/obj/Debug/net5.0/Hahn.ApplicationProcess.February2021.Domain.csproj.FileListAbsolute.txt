@@ -1,0 +1,15 @@
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.deps.json
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.dll
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\ref\Hahn.ApplicationProcess.February2021.Domain.dll
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.pdb
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.AssemblyInfoInputs.cache
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.AssemblyInfo.cs
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.dll
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\ref\Hahn.ApplicationProcess.February2021.Domain.dll
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.pdb
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.csprojAssemblyReference.cache
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\Hahn.ApplicationProcess.February2021.Data.dll
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\bin\Debug\net5.0\Hahn.ApplicationProcess.February2021.Data.pdb
+D:\Projects\TechnicalTasks\Hahn\Hahn.ApplicationProcess.Application\Hahn.ApplicationProcess.February2021.Domain\obj\Debug\net5.0\Hahn.ApplicationProcess.February2021.Domain.csproj.CopyComplete
